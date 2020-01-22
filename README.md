@@ -1,5 +1,8 @@
 # README
-Gary test rebase
+Gary test rebase 
+using git pull --rebase origin master
+
+:
 This is from branch1
 
 This README would normally document whatever steps are necessary to get the
