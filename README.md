@@ -1,4 +1,5 @@
 # README
+Gary test stash from branch_b
 Gary test rebase  
 using git pull --rebase origin master
 
